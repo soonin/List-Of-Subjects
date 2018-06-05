@@ -2,7 +2,7 @@
 
 Here we will cover coding with below languages : 
 
-## Swift 
-## Java
-## Kitlin
-## NodeJS
+## Swift (IOS)
+## Java (Android)
+## Kotlin (Android)
+## NodeJS (JavaScript)
