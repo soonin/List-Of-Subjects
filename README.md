@@ -1,3 +1,8 @@
 # List Of Subject
 
-Here we can find out all subject that we will cover 
+Here we will cover coding with below languages : 
+
+## Swift 
+## Java
+## Kitlin
+## NodeJS
