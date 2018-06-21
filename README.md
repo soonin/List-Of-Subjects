@@ -1,4 +1,4 @@
-# List Of Subject
+# List Of Subjects
 
 Here we will cover coding with below languages : 
 
